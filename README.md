@@ -8,4 +8,4 @@
 * Scroll down, show loader and fetch next set of posts
 * Add filtering for fetched posts
 
-![img]()
+![img](https://github.com/tudorbejinari/infinite-scroll-blog/blob/master/blog.png)
